@@ -3,7 +3,7 @@
 ### David Medeiros
 **` Analista de Teste e Quality Assurance (QA) `** 🔍
 
-**Olá!** Me chamo *David Medeiros*, tenho 30 anos e sou do Rio de Janeiro. Com ampla experiência na área de tecnologia, formação técnica em Informática e superior em Análise e Desenvolvimento de Sistemas (ADS). Atualmente, estou me aprofundando no mundo de **Testes e QA** pela Iterasys cursando *Formação em Teste de Software*, e aqui no *GitHub* você vai encontrar meus projetos, que são uma forma de mostrar o que sei e as coisas que ando criando.
+**Olá!** Me chamo *David Medeiros*, tenho 30 anos e sou do Rio de Janeiro. Com ampla experiência na área de tecnologia, formação técnica em Informática e superior em Análise e Desenvolvimento de Sistemas (ADS). Atualmente, estou me aprofundando no mundo de **Testes e QA** cursando *Formação em Teste de Software* pela Iterasys, e aqui no *GitHub* você vai encontrar meus projetos, que são uma forma de mostrar o que sei e as coisas que ando criando.
 
 <a href="https://iterasys.com.br/pt">
 <img src="https://img.shields.io/badge/ITERASYS-white?style=for-the-badge&logoSize=auto&color=%2333504b" alt="Iterasys">
