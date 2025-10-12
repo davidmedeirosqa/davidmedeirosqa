@@ -3,7 +3,7 @@
 ### David Medeiros
 **` Analista de Teste e Quality Assurance (QA) `** 🔍
 
-**Olá!** Me chamo *David Medeiros*, tenho 30 anos e sou do Rio de Janeiro. Com ampla experiência na área de tecnologia, formação técnica em Informática e superior em Análise e Desenvolvimento de Sistemas (ADS). Atualmente, estou me aprofundando no mundo de **Testes e QA** cursando *Formação em Teste de Software* pela Iterasys, e aqui no *GitHub* você vai encontrar meus projetos, que são uma forma de mostrar o que sei e as coisas que ando criando.
+**Olá!** Me chamo *David Medeiros*, tenho 31 anos e sou do Rio de Janeiro. Com ampla experiência na área de tecnologia, formação técnica em Informática e superior em Análise e Desenvolvimento de Sistemas (ADS). Atualmente, estou me aprofundando no mundo de **Testes e QA**, terminei meu curso de *Formação em Teste de Software* pela Iterasys, e aqui no *GitHub* você vai encontrar meus projetos, que são uma forma de mostrar o que sei e as coisas que ando criando.
 
 <a href="https://iterasys.com.br/pt">
 <img src="https://img.shields.io/badge/ITERASYS-white?style=for-the-badge&logoSize=auto&color=%2333504b" alt="Iterasys">
@@ -21,7 +21,7 @@
 **Gerenciador de Dependências / Build Tools**  
 ![Maven](https://img.shields.io/badge/Maven-white?style=for-the-badge&logo=Apache%20Maven&logoColor=white&logoSize=auto&color=%237c2879) 
 
-**Frameworks de Testes**  
+**Ferramentas de Testes**  
 ![JUnit](https://img.shields.io/badge/JUnit-white?style=for-the-badge&logo=JUnit5&logoColor=white&logoSize=auto&color=%2325a162)
 ![Hamcrest](https://img.shields.io/badge/Hamcrest-white?style=for-the-badge&color=%23000000) 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -39,5 +39,5 @@
 ## Contatos 💬
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521982916500)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidmedeirosdev/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidmedeirosqa/)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:davidmedeiros94@hotmail.com)
