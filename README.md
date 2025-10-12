@@ -25,12 +25,10 @@
 ![JUnit](https://img.shields.io/badge/JUnit-white?style=for-the-badge&logo=JUnit5&logoColor=white&logoSize=auto&color=%2325a162)
 ![Hamcrest](https://img.shields.io/badge/Hamcrest-white?style=for-the-badge&color=%23000000) 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-white?style=for-the-badge&logo=Cucumber&logoColor=white&logoSize=auto&color=%23163647)
 ![REST Assured](https://img.shields.io/badge/REST%20ASSURED-white?style=for-the-badge&logoSize=auto&color=%2364906d)
-![Appium](https://img.shields.io/badge/Appium-white?style=for-the-badge&logo=APPIUM&logoColor=white&logoSize=auto&color=%23ec366d)
-
-**Ferramentas de Testes**  
 ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman&logoColor=white&logoSize=auto&color=%23fd6c35) 
+![Cucumber](https://img.shields.io/badge/Cucumber-white?style=for-the-badge&logo=Cucumber&logoColor=white&logoSize=auto&color=%23163647)
+![Appium](https://img.shields.io/badge/Appium-white?style=for-the-badge&logo=APPIUM&logoColor=white&logoSize=auto&color=%23ec366d)
 
 **Controle de Versão**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
