@@ -23,7 +23,6 @@
 
 **Ferramentas de Testes**  
 ![JUnit](https://img.shields.io/badge/JUnit-white?style=for-the-badge&logo=JUnit5&logoColor=white&logoSize=auto&color=%2325a162)
-![Hamcrest](https://img.shields.io/badge/Hamcrest-white?style=for-the-badge&color=%23000000) 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST%20ASSURED-white?style=for-the-badge&logoSize=auto&color=%2364906d)
 ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman&logoColor=white&logoSize=auto&color=%23fd6c35) 
@@ -38,4 +37,5 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521982916500)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidmedeirosqa/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@davidmedeirosqa)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:davidmedeiros94@hotmail.com)
